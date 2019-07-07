@@ -1,0 +1,17 @@
+18:35:23.910 [main] INFO  stepDefenition.stepDefenition - User is in homepage now
+18:35:29.333 [main] INFO  stepDefenition.stepDefenition - User entered the time and clicked on go successfully
+18:35:29.354 [main] INFO  stepDefenition.stepDefenition - user is navigated to counter page successfully
+18:35:38.219 [main] INFO  stepDefenition.stepDefenition - User navigated to the counter page
+18:35:38.220 [main] INFO  stepDefenition.stepDefenition - Counter started counting
+18:35:38.245 [main] INFO  stepDefenition.stepDefenition - counter is not started from the specified time period in the home page
+18:35:46.611 [main] INFO  stepDefenition.stepDefenition - User navigated to the counter page
+18:35:46.612 [main] INFO  stepDefenition.stepDefenition - Counter started counting
+18:35:46.631 [main] INFO  stepDefenition.stepDefenition - user is navigated to the counter page now
+18:35:46.631 [main] INFO  stepDefenition.stepDefenition - Counter started from 5 Seconds
+18:35:47.656 [main] INFO  stepDefenition.stepDefenition - 3 seconds
+18:35:48.680 [main] INFO  stepDefenition.stepDefenition - 2 seconds
+18:35:49.705 [main] INFO  stepDefenition.stepDefenition - 1 second
+18:35:50.729 [main] INFO  stepDefenition.stepDefenition - 1 second
+18:35:50.729 [main] INFO  stepDefenition.stepDefenition - Counter is not in sync with the seconds timer
+18:35:50.736 [main] INFO  stepDefenition.stepDefenition - Time Expired!
+18:36:01.103 [main] DEBUG freemarker.cache - Couldn't find template in cache for "Extent.ftl"("en_NL", UTF-8, parsed); will try to load it.

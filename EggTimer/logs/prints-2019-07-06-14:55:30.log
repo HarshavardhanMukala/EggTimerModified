@@ -1,0 +1,17 @@
+14:52:20.816 [main] INFO  stepDefenition.stepDefenition - User entered the URL in the Browser and clicked on search
+14:52:20.859 [main] INFO  stepDefenition.stepDefenition - User is landed in the homepage of Egg timer successfully
+14:52:24.256 [main] INFO  stepDefenition.stepDefenition - User is in homepage now
+14:52:30.845 [main] INFO  stepDefenition.stepDefenition - User entered the time and clicked on go successfully
+14:52:30.868 [main] INFO  stepDefenition.stepDefenition - user is navigated to counter page successfully
+14:52:40.600 [main] INFO  stepDefenition.stepDefenition - User navigated to the counter page
+14:52:40.601 [main] INFO  stepDefenition.stepDefenition - Counter started counting
+14:52:40.624 [main] INFO  stepDefenition.stepDefenition - counter is not started from the specified time period in the home page
+14:52:53.764 [main] INFO  stepDefenition.stepDefenition - User navigated to the counter page
+14:52:53.765 [main] INFO  stepDefenition.stepDefenition - Counter started counting
+14:52:53.783 [main] INFO  stepDefenition.stepDefenition - user is navigated to the counter page now
+14:52:53.783 [main] INFO  stepDefenition.stepDefenition - Counter started from 5 Seconds
+14:52:54.803 [main] INFO  stepDefenition.stepDefenition - 2 seconds
+14:52:55.828 [main] INFO  stepDefenition.stepDefenition - 1 second
+14:52:56.848 [main] INFO  stepDefenition.stepDefenition - 1 second
+14:55:28.099 [main] INFO  stepDefenition.stepDefenition - User has copied the URL
+14:55:30.300 [main] INFO  stepDefenition.stepDefenition - User entered the URL in the Browser and clicked on search
